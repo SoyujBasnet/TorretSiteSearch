@@ -1,0 +1,8 @@
+https://thepiratebay.org/search/{kwarg}
+https://1337x.to/search/{kwarg}/1/
+https://www.torrentdownloads.me/search/?search={kwarg}
+https://www.limetorrents.info/search/all/{kwarg}/
+https://torrentgalaxy.org/torrents.php?search={kwarg}
+https://www.ettv.tv/torrents-search.php?search={kwarg}
+https://torrentz2.eu/search?f={kwarg}
+https://zooqle.com/search?q={kwarg}
